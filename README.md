@@ -11,7 +11,7 @@
       
   - ✨ A focused mind is sharper than a stone!
   - 🥊 Muay Thai & Combat Sports practitioner.
-  - 🌱 I’m currently learning PyTorch but I believe that everyday I learn something new.
+  - 🌱 Honing on my Data Analysis and Machine Learning skills.
   - 💻 Visit my [Portfolio]() for more details about me.
   <br/>
   <!--Profile Count Badge-->
