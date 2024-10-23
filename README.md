@@ -10,7 +10,7 @@
     <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, REST API and Data Visualization. </p>
       
   - ✨ A focused mind is sharper than a stone!
-  - 🥊 Muay Thai & Combat Sports practitioner.
+  - 🥊 Muay Thai practitioner & Combat Sports lover.
   - 🌱 Honing on my Data Analysis and Machine Learning skills.
   - 💻 Visit my [Portfolio]() for more details about me.
   <br/>
