@@ -1,5 +1,5 @@
 <!--Header Name-->
-# Hi I'm Tiago! 
+# Hi I'm Tiago! 👋
 *Future machine learning engineer black belt 🥋 (current white belt)*
 <br /> 
 
